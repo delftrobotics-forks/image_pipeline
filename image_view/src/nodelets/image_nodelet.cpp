@@ -37,6 +37,7 @@
 
 #include <cv_bridge/cv_bridge.h>
 #include <opencv2/highgui/highgui.hpp>
+#include <opencv2/highgui/highgui_c.h>
 #include "window_thread.h"
 
 #include <boost/thread.hpp>
